@@ -10,7 +10,7 @@ description: |
   wmic process call create cmd.exe
   ```
 
-type: CLIENT_EVENT
+type: CLIENT
 
 sources:
   - query: |
